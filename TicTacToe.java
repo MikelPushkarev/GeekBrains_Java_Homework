@@ -1,3 +1,10 @@
+/**
+ * Java 1-2-3. Lesson 4. Homework
+ *
+ * @author Pushkarev Mikhail
+ * @version dated Sept 24, 2018
+ */
+
 import java.util.*;
 
 class TicTacToe {
